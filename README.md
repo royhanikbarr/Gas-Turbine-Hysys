@@ -16,4 +16,7 @@ The increase of adding the heat exchanger is 11.53%
 
 It's so fun to learn gas turbine cycle, especially in simulation of hysys
 
+
+
+
 I hope you enjoy, thank you
